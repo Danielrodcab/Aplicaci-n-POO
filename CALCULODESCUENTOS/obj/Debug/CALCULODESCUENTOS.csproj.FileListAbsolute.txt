@@ -1,0 +1,10 @@
+C:\Users\adminsena\source\repos\CALCULODESCUENTOS\CALCULODESCUENTOS\bin\Debug\CALCULODESCUENTOS.exe.config
+C:\Users\adminsena\source\repos\CALCULODESCUENTOS\CALCULODESCUENTOS\bin\Debug\CALCULODESCUENTOS.exe
+C:\Users\adminsena\source\repos\CALCULODESCUENTOS\CALCULODESCUENTOS\bin\Debug\CALCULODESCUENTOS.pdb
+C:\Users\adminsena\source\repos\CALCULODESCUENTOS\CALCULODESCUENTOS\obj\Debug\CALCULODESCUENTOS.csproj.AssemblyReference.cache
+C:\Users\adminsena\source\repos\CALCULODESCUENTOS\CALCULODESCUENTOS\obj\Debug\CALCULODESCUENTOS.Form1.resources
+C:\Users\adminsena\source\repos\CALCULODESCUENTOS\CALCULODESCUENTOS\obj\Debug\CALCULODESCUENTOS.Properties.Resources.resources
+C:\Users\adminsena\source\repos\CALCULODESCUENTOS\CALCULODESCUENTOS\obj\Debug\CALCULODESCUENTOS.csproj.GenerateResource.cache
+C:\Users\adminsena\source\repos\CALCULODESCUENTOS\CALCULODESCUENTOS\obj\Debug\CALCULODESCUENTOS.csproj.CoreCompileInputs.cache
+C:\Users\adminsena\source\repos\CALCULODESCUENTOS\CALCULODESCUENTOS\obj\Debug\CALCULODESCUENTOS.exe
+C:\Users\adminsena\source\repos\CALCULODESCUENTOS\CALCULODESCUENTOS\obj\Debug\CALCULODESCUENTOS.pdb
