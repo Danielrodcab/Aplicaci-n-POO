@@ -1,0 +1,66 @@
+## Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+*.userosscache
+*_i.c
+*_p.c
+*.ilk
+*.obj
+*.pch
+*.pdb
+*.ipch
+*.res
+*.idb
+*.VC.db
+*.VC.VC.opendb
+*.dbmdl
+
+## Build results
+bin/
+obj/
+Build/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Tt]emp/
+[TestResults]/
+
+## NuGet
+*.nupkg
+*.snupkg
+packages/
+*.nuget.props
+*.nuget.targets
+
+## VS Code (por si usas ambos)
+.vscode/
+
+## Rider
+.idea/
+
+## ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+## Auto-generated files
+Generated\ Files/
+*.g.cs
+*.g.i.cs
+
+## Publish
+*.publishsettings
+PublishProfiles/
+
+## SQL
+*.mdf
+*.ldf
+*.ndf
+
+## Others
+*.tmp
+*.log
+*.svclog
+*.scc
+*.DS_Store
+Thumbs.db
